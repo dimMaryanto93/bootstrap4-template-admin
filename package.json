@@ -1,0 +1,27 @@
+{
+  "name": "template-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dimMaryanto93/bootstrap4-template-admin.git"
+  },
+  "keywords": [
+    "bootstrap4"
+  ],
+  "author": "dimmaryanto93",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimMaryanto93/bootstrap4-template-admin/issues"
+  },
+  "homepage": "https://github.com/dimMaryanto93/bootstrap4-template-admin#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "datatables.net": "^1.10.16",
+    "jquery": "^3.3.1"
+  }
+}
